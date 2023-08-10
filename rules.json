@@ -1,0 +1,16 @@
+[
+    
+    {
+        "id" : 1,
+        "prority" : 1,
+        "action" : { "type": "block" },
+        "condition" : { "urlFilter": "*://*doubleclick.net/*"}
+
+    },
+    {
+        "id" : 2,
+        "prority" : 1,
+        "action" : { "type": "block" },
+        "condition" : { "urlFilter": "*://googleadservices.com/*"}
+    }
+]
